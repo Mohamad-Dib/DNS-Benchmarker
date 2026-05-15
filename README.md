@@ -15,8 +15,8 @@ A powerful and visually appealing CLI tool to benchmark DNS resolver performance
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd "Python DNS tester"
+   git clone https://github.com/Mohamad-Dib/DNS-Benchmarker.git
+   cd "DNS-Benchmarker"
    ```
 
 2. **Install dependencies:**
